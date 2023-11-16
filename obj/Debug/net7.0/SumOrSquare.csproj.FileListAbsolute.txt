@@ -1,0 +1,15 @@
+C:\Users\ASUS\PatikaDev\SumOrSquare\bin\Debug\net7.0\SumOrSquare.exe
+C:\Users\ASUS\PatikaDev\SumOrSquare\bin\Debug\net7.0\SumOrSquare.deps.json
+C:\Users\ASUS\PatikaDev\SumOrSquare\bin\Debug\net7.0\SumOrSquare.runtimeconfig.json
+C:\Users\ASUS\PatikaDev\SumOrSquare\bin\Debug\net7.0\SumOrSquare.dll
+C:\Users\ASUS\PatikaDev\SumOrSquare\bin\Debug\net7.0\SumOrSquare.pdb
+C:\Users\ASUS\PatikaDev\SumOrSquare\obj\Debug\net7.0\SumOrSquare.csproj.AssemblyReference.cache
+C:\Users\ASUS\PatikaDev\SumOrSquare\obj\Debug\net7.0\SumOrSquare.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\PatikaDev\SumOrSquare\obj\Debug\net7.0\SumOrSquare.AssemblyInfoInputs.cache
+C:\Users\ASUS\PatikaDev\SumOrSquare\obj\Debug\net7.0\SumOrSquare.AssemblyInfo.cs
+C:\Users\ASUS\PatikaDev\SumOrSquare\obj\Debug\net7.0\SumOrSquare.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\PatikaDev\SumOrSquare\obj\Debug\net7.0\SumOrSquare.dll
+C:\Users\ASUS\PatikaDev\SumOrSquare\obj\Debug\net7.0\refint\SumOrSquare.dll
+C:\Users\ASUS\PatikaDev\SumOrSquare\obj\Debug\net7.0\SumOrSquare.pdb
+C:\Users\ASUS\PatikaDev\SumOrSquare\obj\Debug\net7.0\SumOrSquare.genruntimeconfig.cache
+C:\Users\ASUS\PatikaDev\SumOrSquare\obj\Debug\net7.0\ref\SumOrSquare.dll
